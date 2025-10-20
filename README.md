@@ -2,6 +2,8 @@
 
 Este directorio contiene un cascarón básico de una aplicación React para interactuar con el backend de moderación automática.
 
+Consulta el [roadmap del frontend](./roadmap.md) para conocer las etapas completas del desarrollo del panel.
+
 ## Inicio rápido
 
 1. Instalar dependencias con npm o yarn:
